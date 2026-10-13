@@ -1,4 +1,4 @@
-//leetcode 81 t.c ->O(log n) s.c ->O(1)
+//leetcode 81 t.c ->O(log n) or t.c->O(n/2)(trim down) s.c ->O(1)
 class Solution {
     public boolean search(int[] arr, int key) {
         // code here
